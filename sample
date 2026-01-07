@@ -1,4 +1,3 @@
-<<<<<<< HEAD
  hi this is ameel
 
 this is my secondcommit
@@ -6,9 +5,12 @@ this is my secondcommit
  this ismy latest commiyt
 
 this is newest commit
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 0de9219 (first commit)
 
 
 1st commit
 2nd commit
+=======
+>>>>>>> parent of 4bc4436 (4th commit-reverting)
